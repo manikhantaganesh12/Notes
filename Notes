@@ -1,3 +1,5 @@
 find -name filename.txt
 grep "text" filename.ext
 grep -R "text" /folder
+file filename ... determines the filetype
+
