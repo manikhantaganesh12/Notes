@@ -62,4 +62,10 @@ lusrmgr.msc - local user and group management
 msconfig - system configuration utility - diagnosing startup issues
 taskmgr - to manage (enable/disable) starup items
 
+msconfig - system configuration - services - list of all services (running or stopped)
+
+shared folder - computer management - shared folder - shares
+
+
+
 
