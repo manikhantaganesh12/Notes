@@ -6,3 +6,11 @@ su user2 ... stays in our home directory
 su -l user2  ... takes to the user2 home directory
 
 rwx 421
+
+/etc - system files of OS ... passwd, shadow, sudoers
+/var - files which are frequently accessed/written by services or applications and other data not necessarily
+associated with a specific user... e.g. /var/log , 
+/root - home directory of the root user
+
+/tmp - any user has access to this folder - contents are cleared once the system restarts
+Nano - ctrl+6 , alt+6, alt + u -- select text, copy text and paste text
