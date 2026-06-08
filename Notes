@@ -24,3 +24,22 @@ wget http://10.129.162.81:8000/myfile - the http server runs on port 8000
 
 Check this alternative for python web server - https://github.com/sc0tfree/updog
 
+ps ... list of processes
+ps aux ... list of processes run by other users and those that do not run from a session (e.g. system processes)
+
+top ... gives the real-time statistics of the processes and auto-refreshes every 10 seconds
+
+kill PID
+
+SIGTERM - Kill the process, but allow it to do some cleanup tasks beforehand
+SIGKILL - Kill the process - doesn't do any cleanup after the fact
+SIGSTOP - Stop/suspend a proces
+
+systemctl start/stop/enable/disable/status apache2 - for starting the service at bootup
+
+
+& or Ctrl+Z for backgrounding a process...
+fg for bringing the backgrounded process to forefront...
+
+
+
