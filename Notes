@@ -52,3 +52,9 @@ Bash Scripting - https://tryhackme.com/room/bashscripting
 Regular Expressions - https://tryhackme.com/room/catregex
 
 
+C:\windows
+%windir%  - system environment variable for windows directory
+
+most of the tools reside in \windows\system32 folder
+
+
