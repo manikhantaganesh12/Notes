@@ -56,5 +56,10 @@ C:\windows
 %windir%  - system environment variable for windows directory
 
 most of the tools reside in \windows\system32 folder
+C:\users\"Username"  - home folder
+lusrmgr.msc - local user and group management
+
+msconfig - system configuration utility - diagnosing startup issues
+taskmgr - to manage (enable/disable) starup items
 
 
