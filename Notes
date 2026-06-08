@@ -46,4 +46,9 @@ Crontab help - https://crontab-generator.org/ , https://crontab.guru/
 
 crontab -e ... to edit the crontab
 
+/etc/apt/sources.list - list of repositories
+
+Bash Scripting - https://tryhackme.com/room/bashscripting
+Regular Expressions - https://tryhackme.com/room/catregex
+
 
