@@ -5,3 +5,4 @@ file filename ... determines the filetype
 su user2 ... stays in our home directory
 su -l user2  ... takes to the user2 home directory
 
+rwx 421
