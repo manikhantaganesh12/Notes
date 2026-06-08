@@ -2,4 +2,6 @@ find -name filename.txt
 grep "text" filename.ext
 grep -R "text" /folder
 file filename ... determines the filetype
+su user2 ... stays in our home directory
+su -l user2  ... takes to the user2 home directory
 
