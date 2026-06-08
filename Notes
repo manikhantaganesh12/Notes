@@ -14,3 +14,13 @@ associated with a specific user... e.g. /var/log ,
 
 /tmp - any user has access to this folder - contents are cleared once the system restarts
 Nano - ctrl+6 , alt+6, alt + u -- select text, copy text and paste text
+
+wget "Filepath" - for downloading the file
+scp file_to_be_copied user@remoteip:destination/filename
+scp user@remoteip:source_with_file filename
+
+to convert into a web server for sharing files  - python3 -m http.server
+wget http://10.129.162.81:8000/myfile - the http server runs on port 8000
+
+Check this alternative for python web server - https://github.com/sc0tfree/updog
+
