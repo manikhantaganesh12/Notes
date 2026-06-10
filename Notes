@@ -89,5 +89,18 @@ https://tryhackme.com/room/activedirectoryhardening
 https://tryhackme.com/module/hacking-active-directory
 
 
+CMD.exe commands 
+set ... to view the path
+ver ... OS version
+systeminfo
+
+ping
+tracert
+nslookup domain 1.1.1.1
+
+dir - displays current folder - where am i
+dir /a - Displays hidden and system files as well.
+dir /s - Displays files in the current directory and all subdirectories.
+
 
 
