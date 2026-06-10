@@ -98,9 +98,27 @@ ping
 tracert
 nslookup domain 1.1.1.1
 
-dir - displays current folder - where am i
+cd - displays current folder - where am i
 dir /a - Displays hidden and system files as well.
 dir /s - Displays files in the current directory and all subdirectories.
+
+mkdir foldername
+rmdir foldername
+
+type filename ... similar to cat filename in linux... details of the file directly on to the terminal or 
+more filenaam.txt can also be used to read the contents
+
+copy test1.txt test2.txt ... for copying the files
+move file location ... for moving the files
+
+
+tasklist
+taskkill
+
+tasklist /FI "imagename eq notepad.exe"  filter for notepad
+
+
+
 
 
 
