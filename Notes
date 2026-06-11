@@ -66,6 +66,7 @@ msconfig - system configuration - services - list of all services (running or st
 
 shared folder - computer management - shared folder - shares
 
+findstr - similar to grep
 A - Z index of commands in windows cmd - https://ss64.com/nt/
 
 Further reading material for windows -
