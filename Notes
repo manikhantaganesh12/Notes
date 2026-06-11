@@ -120,6 +120,8 @@ tasklist /FI "imagename eq notepad.exe"  filter for notepad
 Powershell:
 Get-Command -Name "Somethin*"
 Get-Help "cmdletname"
+Get-Alias
+
 
 Find-Module -Name "Name"
 Install-Module -Name "Name"
