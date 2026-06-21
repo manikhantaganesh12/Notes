@@ -126,6 +126,11 @@ Get-Alias
 
 Find-Module -Name "Name"
 Install-Module -Name "Name"
+Select-String ... similar to grep... also supports regex
+
+Get-ChildItem | Where-Object -Property Length -gt 100  ... items in the current folder wiht size gt 100
+
+
 
 
 
