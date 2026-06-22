@@ -131,6 +131,8 @@ Select-String ... similar to grep... also supports regex
 Get-ChildItem | Where-Object -Property Length -gt 100  ... items in the current folder wiht size gt 100
 
 
+echo $SHELL   ...details of the shell
+cat /etc/shells   ... details of all the shells on the system
 
 
 
