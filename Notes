@@ -134,6 +134,12 @@ Get-ChildItem | Where-Object -Property Length -gt 100  ... items in the current 
 echo $SHELL   ...details of the shell
 cat /etc/shells   ... details of all the shells on the system
 
+type the shell name to change the shell ... e.g. zsh
+
+to change the shell permanently ... chsh -s /usr/bin/zsh
+
+
+
 
 
 
