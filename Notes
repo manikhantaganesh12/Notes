@@ -154,4 +154,7 @@ if key authentication is enabled.
 
 crackstation.net, hashes.com
 
+Python module for identifying hash ID - https://pypi.org/project/hashID/
+
+
 
